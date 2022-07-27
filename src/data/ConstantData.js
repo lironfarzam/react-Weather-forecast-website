@@ -1,0 +1,2 @@
+export const DEFAULT_IMAGE = "https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/5-Best-Free-and-Paid-Weather-APIs-2019-e1587582023501-1024x576.png";
+export const PROBLEM_IMAGE = "https://c.tenor.com/bGCuW8uql2kAAAAC/office-server.gif"
